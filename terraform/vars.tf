@@ -1,3 +1,3 @@
 variable "bucket_name" {
-  default = "aws-s3-lamata"
+  default = "aws-s3-Lamata"
 }
